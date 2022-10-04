@@ -22,7 +22,13 @@
 5. php artisan migrate
 
 
+<h3>Chatting package(Chatify)</h3>
+https://chatify.munafio.com/installation
 
-
+1. Create Pusher account for pusher id,app_key,app_secrate 
+2. Add pusher details in .env file
+3. composer require munafio/chatify
+4. php artisan chatify:install
+5. php artisan migrate
 
 
