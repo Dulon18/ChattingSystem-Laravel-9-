@@ -35,8 +35,10 @@ https://chatify.munafio.com/installation
 4. php artisan chatify:install
 5. php artisan migrate
 
+
 ## Installation Instructions
 - Clone the repo.
 - Run 'composer install'
 - Run 'cp .env.example .env'
 - Run 'php artisan migrate'
+- Run 'php artisan serve'
